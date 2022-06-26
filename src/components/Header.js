@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Fade from "react-reveal/Fade";
-import Resume from "../Justin Stephens - SWE Resume (1).pdf";
+import Resume from "../Justin Stephens - Resume.pdf";
 
 class Header extends Component {
     render() {
