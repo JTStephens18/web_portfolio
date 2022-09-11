@@ -52,7 +52,7 @@ class About extends Component {
                     </Fade>
                     <Fade right delay={100}>
                     <div className='chart'>
-                        <span>Front-end</span>
+                        <span>C/C#</span>
                         <footer className='third-footer'>
                             <div></div>
                         </footer>
@@ -60,7 +60,7 @@ class About extends Component {
                     </Fade>
                     <Fade right delay={100}>
                     <div className='chart'>
-                        <span>React</span>
+                        <span>React.js</span>
                         <footer className='fourth-footer'>
                             <div></div>
                         </footer>
@@ -68,7 +68,7 @@ class About extends Component {
                     </Fade>
                     <Fade right delay={100}>
                     <div className='chart'>
-                        <span>Truffle</span>
+                        <span>Ethers.js/Hardhat</span>
                         <footer className='fifth-footer'>
                             <div></div>
                         </footer>

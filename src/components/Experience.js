@@ -16,6 +16,9 @@ class Experience extends Component {
                     <Tabs selectedTabClassName='tab-selected'>
                     <div className='experience-tablist'>
                         <TabList>
+                            <Tab className="tablist-item">
+                                <Fade bottom delay={50}>Metropolis World</Fade>
+                            </Tab>
                             <Tab className="tablist-item tab0">
                                 <Fade bottom delay={200}>CARFS Project</Fade>
                             </Tab>
@@ -41,6 +44,55 @@ class Experience extends Component {
                     </div>
                     <div className='tab-panels'>
                         <TabPanel>
+                            <div className='tab-panel'>
+                                <Fade bottom delay={100}>
+                                    <h3 className="project-title">
+                                        Frontend Developer
+                                        <h3 className='project-title-link'>
+                                            @
+                                            <a href="https://metropolisworld.io/">
+                                                Metropolis World
+                                            </a>
+                                        </h3>
+                                    </h3>
+                                </Fade>
+                                <Fade bottom delay={200}>
+                                    <p className='project-time'>
+                                        May 2022 - Present
+                                    </p>
+                                </Fade>
+                                <Fade bottom={300}>
+                                    <div className="project-details">
+                                        <ul>
+                                            <li>
+                                                Design admin page to allow team members to interact with smart contracts and manage project data.
+                                            </li>
+                                            <li>
+                                                Deploy, test, implement, and create architecture for smart contracts on the Ethereum blockchain.
+                                            </li>
+                                            <li>
+                                                Activtely brainstorm new tools and technologies to be used in the project as it continuously evolves.
+                                            </li>
+                                            <li>
+                                                Autonomously determine the best next steps and solutions to meet the project's goals.
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </Fade>
+                                <Fade bottom delay={600}>
+                                    <ul className="project-tech-list">
+                                        <li>React.js</li>
+                                        <li>Solidity</li>
+                                        <li>Ethers.js</li>
+                                        <li>Hardhat</li>
+                                        <li>Python</li>
+                                        <li>AWS</li>
+                                        <li>MongoDB</li>
+                                    </ul>
+                                </Fade>
+                            </div>
+                        </TabPanel>
+                        <TabPanel>
                         <div className="tabpanel-0">
                             <Fade bottom delay={200}>
                             <h3 className='project-title'>
@@ -55,7 +107,7 @@ class Experience extends Component {
                             </Fade>
                             <Fade bottom delay={300}>
                             <p className='project-time'>
-                                September-December 2021
+                                September 2021 - May 2022
                             </p>
                             </Fade>
                             <Fade bottom delay={400}>
