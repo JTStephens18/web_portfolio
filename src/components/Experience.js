@@ -65,7 +65,7 @@ class Experience extends Component {
                                     <div className="project-details">
                                         <ul>
                                             <li>
-                                                Design admin page to allow team members to interact with smart contracts and manage project data.
+                                                Design admin dashboard to allow team members to interact with smart contracts and manage project data.
                                             </li>
                                             <li>
                                                 Deploy, test, implement, and create architecture for smart contracts on the Ethereum blockchain.
@@ -96,7 +96,7 @@ class Experience extends Component {
                         <div className="tabpanel-0">
                             <Fade bottom delay={200}>
                             <h3 className='project-title'>
-                                Student Assistant 
+                                Software Engineer Intern 
                                 <h3 className='project-title-link'>
                                     @
                                     <a href="https://www.southalabama.edu/colleges/soc/research/nsfdigitalforensics.html">
@@ -107,22 +107,22 @@ class Experience extends Component {
                             </Fade>
                             <Fade bottom delay={300}>
                             <p className='project-time'>
-                                September 2021 - May 2022
+                                September 2021 - April 2022
                             </p>
                             </Fade>
                             <Fade bottom delay={400}>
                             <div className='project-details'>
                                 <ul>
                                     <li>
-                                        Restored existing data, consisting of 20 databases, from a shard into local InfluxDB server,
+                                        Collected benign metrics from 4 infected Docker containers into an InfluxDB server
+                                        via the introspection tool Prometheus. 
                                     </li>
                                     <li>
-                                        Built Python scripts to query and extract data from local InfluxDB server.
+                                        Implemented random forest and single value decomposition classification methods to clean 130GB of data.
                                     </li>
                                     <li>
-                                        Developed Machine Learning and Deep Learning algorithms for classification 
-                                        and anomaly detection. Random Forest was used for classification and regression. 
-                                        AutoML was used to cross-evaluate various classification algorithms in terms of performance.
+                                        Constructed Python scripts to export cleaned data into MySQL database to improve 
+                                        usuability, scalability, reliability, and security.
                                     </li>
                                     <li>
                                         Developed 4 malicious Virtual Machine hosts to monitor benign behavior. (A Distributed 
