@@ -20,7 +20,7 @@ class Experience extends Component {
                                 <Fade bottom delay={50}>Metropolis World</Fade>
                             </Tab>
                             <Tab className="tablist-item tab0">
-                                <Fade bottom delay={200}>CARFS Project</Fade>
+                                <Fade bottom delay={200}>University Internship</Fade>
                             </Tab>
                             <Tab className="tablist-item tab1" >
                                 <Fade bottom delay={300}>CryptoAliens</Fade>
