@@ -124,10 +124,10 @@ class Experience extends Component {
                                         Constructed Python scripts to export cleaned data into MySQL database to improve 
                                         usuability, scalability, reliability, and security.
                                     </li>
-                                    <li>
-                                        Developed 4 malicious Virtual Machine hosts to monitor benign behavior. (A Distributed 
-                                        Denial of Service attack, a Kubernetes exploit, an OpenSSL attack, and a Ransomware attack).
-                                    </li>
+//                                     <li>
+//                                         Developed 4 malicious Virtual Machine hosts to monitor benign behavior. (A Distributed 
+//                                         Denial of Service attack, a Kubernetes exploit, an OpenSSL attack, and a Ransomware attack).
+//                                     </li>
                                 </ul>
                             </div>
                             </Fade>
