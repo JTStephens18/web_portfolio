@@ -60,7 +60,7 @@ class About extends Component {
                     </Fade>
                     <Fade right delay={100}>
                     <div className='chart'>
-                        <span>React.js</span>
+                        <span>JavaScript</span>
                         <footer className='fourth-footer'>
                             <div></div>
                         </footer>
